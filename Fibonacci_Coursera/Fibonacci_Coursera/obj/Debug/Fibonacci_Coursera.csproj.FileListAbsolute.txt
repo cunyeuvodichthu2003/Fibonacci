@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\bin\Debug\Fibonacci_Coursera.exe.config
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\bin\Debug\Fibonacci_Coursera.exe
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\bin\Debug\Fibonacci_Coursera.pdb
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\obj\Debug\Fibonacci_Coursera.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\obj\Debug\Fibonacci_Coursera.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\obj\Debug\Fibonacci_Coursera.exe
+C:\Users\admin\Desktop\Code\C#\Coursera\Week1\Fibonacci_Coursera\Fibonacci_Coursera\obj\Debug\Fibonacci_Coursera.pdb
